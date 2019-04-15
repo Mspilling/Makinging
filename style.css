@@ -1,5 +1,14 @@
+element {
+    background:rgb(188, 210, 218) none repeat scroll 0% 0%;
+transition: background 400ms linear 0s;
+    transition-property: background;
+    transition-duration: 400ms;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+}
 body {
-    background-color: rgb(188, 210, 218); 
+background-color: rgb(188, 210, 218);
+     
     font-family:Georgia, 'Times New Roman', Times, serif;}
 h1 {font-family:Georgia, 'Times New Roman', Times, serif; color: rgb(2, 51, 63);
     }

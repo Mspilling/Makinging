@@ -1,6 +1,6 @@
 body {
     background-color: rgb(188, 210, 218); 
     font-family:Georgia, 'Times New Roman', Times, serif;}
-h1 {font-family:Georgia, 'Times New Roman', Times, serif;}
-    .title {color: teal;
+h1 {font-family:Georgia, 'Times New Roman', Times, serif; color: rgb(2, 51, 63);
     }
+p {font-family:Georgia, 'Times New Roman', Times, serif; color: rgb(15, 55, 116);}

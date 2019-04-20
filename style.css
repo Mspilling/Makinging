@@ -1,16 +1,1 @@
 
-body {
-background-color: rgb(116, 200, 211);
-    font-family:Georgia, 'Times New Roman', Times, serif;}
-h1 {font-family:Georgia, 'Times New Roman', Times, serif; color: rgb(2, 51, 63);
-    justify-content: center;
-    align-items: left; }
-p {font-family:Georgia, 'Times New Roman', Times, serif; color: rgb(15, 55, 116);justify-content: center;
-    align-items: left;}
-head {justify-content: center; align-items: left;}
-
-.title {color: rgb(2, 51, 63); justify-content: center; align-items: left; font-family: cursive;}
-
-#article-title {font-family: cursive;
-    text-transform: capitalize;}
-

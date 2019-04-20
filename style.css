@@ -10,6 +10,4 @@ p {font-family:Georgia, 'Times New Roman', Times, serif; color: rgb(15, 55, 116)
     align-items: center;}
 head {justify-content: center; align-items: center;}
 
-.title {color: rgb(2, 51, 63);}
-
-.uppercase{text-transform: uppercase}
+.title {color: rgb(2, 51, 63); justify-content: center; align-items: center;}

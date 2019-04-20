@@ -1,12 +1,19 @@
 p {
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(1, 94, 138);
+    text-align: center;
 }
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-    color:rgb(52, 61, 70)
+    color:rgb(52, 61, 70);
+    text-align: center;
 }
 
-body {background-color: rgb(181, 238, 238)}
+head { 
+    font-family: fantasy;
+    font-size: 35px
+}
+
+body {background-color: rgb(117, 230, 230)}

@@ -1,1 +1,12 @@
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(1, 94, 138);
+}
 
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
+    color:rgb(52, 61, 70)
+}
+
+body {background-color: rgb(117, 230, 230)}

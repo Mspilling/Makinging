@@ -17,6 +17,6 @@ head {
 }
 
 body {
-    background-image: linear-gradient(#70ecc7, #fff6e4);
+    background-image: linear-gradient(#fff6e4,#70ecc7, #fff6e4);
     text-align: center;
 }

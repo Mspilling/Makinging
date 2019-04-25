@@ -22,3 +22,9 @@ body {
     background-image: linear-gradient(#fff6e4,#70ecc7, #fff6e4);
     text-align: center;
 }
+
+h2 {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(245, 173, 125);
+}
+    

@@ -11,8 +11,9 @@ h1 {
     text-align: center;
 }
 
-head { 
-    font-family: fantasy;
+.header h1 { 
+    font-size: 65px;
+    color: rgb(245, 173, 125);
 }
 
 body {

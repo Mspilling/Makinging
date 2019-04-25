@@ -14,7 +14,7 @@ h1 {
 .header h1 { 
     font-size: 65px;
     color: rgb(245, 173, 125);
-    text-shadow: 2px 2px 0px #FF0000;
+    text-shadow: 2px 2px 2px #06312b;
 }
 
 body {

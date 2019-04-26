@@ -4,6 +4,12 @@ p {
     text-align: center;
 }
 
+.textme p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(245, 173, 125);
+    text-shadow: 2px 2px 2px #06312b;
+    text-align: center;
+}
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
